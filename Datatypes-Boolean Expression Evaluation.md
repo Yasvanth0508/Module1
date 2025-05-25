@@ -4,6 +4,9 @@
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
+Name:Yasvanth RD
+Reg No:212224240189
+
 ## 🧠 Algorithm
 1. Set variable `a` to the result of the expression `0 == True`.
 2. Set variable `b` to the result of the expression `False == False`.
@@ -15,7 +18,21 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+
+```
+a = (0 == True)
+b = (False== False)
+c = True + True
+d = False + 9
+print('a is',a)
+print('b is',b)
+print('c:',c)
+print('d:',d)
+```
 
 ## Output
+
+![438637470-ea64d494-b2a2-4b1a-833e-0e561296ecf0](https://github.com/user-attachments/assets/42e427be-ea56-4d6a-8ab8-c56e2b46cbe4)
+
+
 ## Result
